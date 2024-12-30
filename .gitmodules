@@ -1,0 +1,15 @@
+[submodule "components/pcf8563"]
+	path = components/pcf8563
+	url = https://github.com/lucas-inacio/pcf8563.git
+[submodule "components/axp202"]
+	path = components/axp202
+	url = https://github.com/lucas-inacio/axp202.git
+[submodule "components/esp_i2c_helper"]
+	path = components/esp_i2c_helper
+	url = https://github.com/lucas-inacio/esp_i2c_helper.git
+[submodule "components/hagl"]
+	path = components/hagl
+	url = https://github.com/tuupola/hagl.git
+[submodule "components/hagl_hal"]
+	path = components/hagl_hal
+	url = https://github.com/tuupola/hagl_esp_mipi.git
